@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfSchemaProblem", "EfSchemaProblem\EfSchemaProblem.csproj", "{196F8952-FF2D-4203-88CB-87703C1A34EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfSchemaIssue", "EfSchemaIssue\EfSchemaIssue.csproj", "{196F8952-FF2D-4203-88CB-87703C1A34EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
